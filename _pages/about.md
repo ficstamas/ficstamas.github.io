@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Under Construction!"
+title: "Home"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+Under Construction!
